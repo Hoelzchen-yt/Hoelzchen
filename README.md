@@ -29,6 +29,10 @@
 
 ---
 
+<div align="center"><img align="center" src="https://pascalpex.de/counter?id=Hoelzchen-yt" alt="Visitors count" /></div>
+
+---
+
 <div align="center">
   <br />
   <sub>Created by Hoelzchen</sub>
