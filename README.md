@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1430820231772897282/1485242241286144141/affafaf.png?ex=69c12720&is=69bfd5a0&hm=32b4119cb0847bc77f01690457d3b9b9b0b9d298651f0bdbcfbc4e848bc4dd11/>
+  <img src="affaf.png"/>
+ 
 
   ### 🪄 Webdeveloper and Coding enthusiast
   
