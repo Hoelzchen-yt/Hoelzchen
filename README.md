@@ -22,10 +22,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hoelzchen-yt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoelzchen-yt&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hoelzchen-yt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
