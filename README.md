@@ -27,6 +27,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoelzchen-yt&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 <div align="center">
   <br />
   <sub>Created by Hoelzchen</sub>
